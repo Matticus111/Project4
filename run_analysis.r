@@ -1,8 +1,10 @@
 # This is an r file to demonstrate tidying a dataset
 
 # install packages
+install.packages("magrittr")
 install.packages("dplyr")
 library(dplyr)
+library(magrittr)
 
 # download the file
 
